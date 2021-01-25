@@ -63,6 +63,10 @@ nav {
 
 }
 
+.account {
+    display:none;
+}
+
 .sticky {
     position: sticky;
     top: 0;
@@ -145,13 +149,44 @@ color: #007bff;
     color: #000;
 }
 
-@media (max-width:768) {
-.footer1 {
-    display: grid;
-    grid-template-columns: 100%;
-}
-.icons {
-    float:left;
-}
 
-}
+@media only screen and (max-width: 768px) {
+    .b-nav {
+        display:none;
+    }
+    
+    .account {
+        display: none;
+    }
+  }
+
+  
+@media only screen and (max-width: 320px) {
+    .b-nav {
+        display:none;
+    }
+
+    .login {
+        display: none;
+    }
+
+    .account {
+        display:block;
+        margin:auto;
+    }
+
+    .bars {
+        display:block;
+        margin: auto;
+    }
+
+    .subscribe {
+        padding: 0;
+        margin:0 3px;
+    }
+
+    .buttons {
+        display: flex;
+        flex-direction: row;
+    }
+  }
