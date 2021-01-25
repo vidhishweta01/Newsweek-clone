@@ -19,3 +19,17 @@ footer {
     width: 97%;
     margin: auto;
 }
+
+.footer1 {
+
+}
+
+.footer1 span {
+color: gray;
+font-size: 7px;
+}
+#NewsWeek_footer {
+    color: orangered;
+    font-size: 40px;
+    font-weight: bolder;
+}
