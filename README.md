@@ -2,7 +2,7 @@
 
 A TheNewsweek clone, used for training purposes
 
-![Screenshot-of-live-demo]()
+![Screenshot-of-live-demo](./asset/newsweek.png)
 
 This is a project for the Microverse training program, Week 3, and it aims to simulate the HTML,CSS and Bootstrap parts of the [Newsweek](https://newsweek.com/).
 
