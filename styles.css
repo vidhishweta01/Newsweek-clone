@@ -96,6 +96,7 @@ nav {
     margin:5px;
 }
 
+
 footer {
     width: 97%;
     margin-left: auto;
@@ -119,6 +120,11 @@ font-size: 16px;
     color:#f72210;
 }
 
+.icons {
+    text-align: right;
+    margin:auto;
+}
+
 .icons i {
     color: #555;
     margin: 0 4px;
@@ -137,4 +143,15 @@ color: #007bff;
 
 .footer2 a:hover, .footer3 a:hover {
     color: #000;
+}
+
+@media (max-width:768) {
+.footer1 {
+    display: grid;
+    grid-template-columns: 100%;
+}
+.icons {
+    float:left;
+}
+
 }
