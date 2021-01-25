@@ -1,0 +1,21 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+.nav1 {
+    width: 97%;
+    margin: auto;
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+.nav2 >a {
+    border-right: 1px #aaaaaa;
+    border-left: 1px #aaaaaa;
+    border-color: #aaaaaa;
+    padding-right: 1px;
+    padding-left: 1px;
+}
+footer {
+    width: 97%;
+    margin: auto;
+}
