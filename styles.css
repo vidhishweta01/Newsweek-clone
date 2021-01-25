@@ -46,21 +46,21 @@ nav {
     color: #aaa;
     font-weight: bold;
     padding: 5px 10px;
-  }
+}
 
-  .footer2 a {
+.footer2 a {
     color: #aaa;
     text-decoration: none;
     border-right: 1px solid lightgray;
     padding: 0 5px;
-  }
+}
   
-  .footer3 a {
+.footer3 a {
     color: #aaa;
     text-decoration: none;
     border-right: 1px solid lightgray;
     padding: 0 5px;
-  }
+}
 
 .nav2 a:hover {
   text-decoration: none;
@@ -114,7 +114,6 @@ nav {
   padding: 7px;
   margin: 5px;
 }
-
 
 footer {
   width: 97%;
