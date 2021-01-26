@@ -35,9 +35,4 @@ _[LinkedIn](https://www.linkedin.com/in/fares-ashraf-382a35176/)
 Give a star if you like this project!
 
 ## License 📝
-
-<<<<<<< HEAD
 This project is [MIT](https://www.mit.edu/~amini/LICENSE.md) licensed.
-=======
-This project is [MIT](https://www.mit.edu/~amini/LICENSE.md) licensed
->>>>>>> 34b9dc3077174e706635cea7171013b922ec1a49
