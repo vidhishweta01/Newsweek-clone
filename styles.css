@@ -148,6 +148,19 @@ footer {
   color: #000;
 }
 
+.section1 {
+  background-color: red;
+  
+}
+
+.section2 {
+  background-color: blue;
+}
+
+.section3 {
+  background-color: green;
+}
+
 @media only screen and (max-width: 768px) {
   .nav1 {
     width: 100%;
