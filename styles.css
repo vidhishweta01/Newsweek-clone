@@ -7,6 +7,7 @@ nav {
   width: 97%;
   background-color: #f72210;
   color: #fff;
+  z-index: 90;
 }
 
 .title {
@@ -162,6 +163,16 @@ footer {
 
   .login {
     display: none;
+  }
+
+  .section1 {
+    order:2;
+  }
+  .section2 {
+    order:1;
+  }
+  .section3 {
+    order:3;
   }
 
 }
