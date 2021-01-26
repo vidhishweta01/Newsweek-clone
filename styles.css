@@ -156,10 +156,12 @@ footer {
 .mstories-h {
   font-size: 15px;
   font-weight: bold;
+  color: #000;
 }
 
 .mstories-p {
-  font-size: 13px;
+  font-size: 11px;
+  color: #555;
 }
 
 
@@ -167,13 +169,17 @@ footer {
   height: 70px;
 }
 
-.mstories-img {
-  width:100%;
+.section3 hr,
+.lines {
+  margin-top: 0;
+  margin-bottom: 0;
 }
+
 @media only screen and (max-width: 768px) {
   .nav1 {
     width: 100%;
   }
+
   .b-nav {
     display: none;
   }
@@ -187,15 +193,16 @@ footer {
   }
 
   .section1 {
-    order:2;
-  }
-  .section2 {
-    order:1;
-  }
-  .section3 {
-    order:3;
+    order: 2;
   }
 
+  .section2 {
+    order: 1;
+  }
+
+  .section3 {
+    order: 3;
+  }
 }
 
 @media only screen and (max-width: 320px) {
