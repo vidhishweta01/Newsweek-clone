@@ -159,6 +159,7 @@ footer {
   .nav1 {
     width: 100%;
   }
+
   .b-nav {
     display: none;
   }
@@ -172,13 +173,15 @@ footer {
   }
 
   .section1 {
-    order:2;
+    order: 2;
   }
+
   .section2 {
-    order:1;
+    order: 1;
   }
+  
   .section3 {
-    order:3;
+    order: 3;
   }
 
 }
