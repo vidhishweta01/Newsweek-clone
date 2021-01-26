@@ -149,6 +149,12 @@ footer {
   color: #000;
 }
 
+.section3 hr,
+.lines {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 @media only screen and (max-width: 768px) {
   .nav1 {
     width: 100%;
