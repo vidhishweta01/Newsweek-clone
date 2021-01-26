@@ -1,18 +1,12 @@
 nav {
-  position: relative;
-  z-index: 99 !important;
+  z-index: 99;
   background-color: #fff;
 }
 
 .nav1 {
   width: 97%;
-  margin: auto;
   background-color: #f72210;
   color: #fff;
-}
-
-.nav1 p {
-  margin: auto 30px;
 }
 
 .title {
@@ -29,7 +23,6 @@ nav {
 .nav2,
 .nav3 {
   width: 97%;
-  margin: 10px auto;
 }
 
 .nav2 a {
@@ -41,16 +34,30 @@ nav {
   font-size: 18px;
 }
 
-.nav2 a:hover {
-  text-decoration: none;
-  color: #f72210;
-}
-
 .nav3 a {
   text-decoration: none;
   color: #aaa;
   font-weight: bold;
   padding: 5px 10px;
+}
+
+.footer2 a {
+  color: #aaa;
+  text-decoration: none;
+  border-right: 1px solid lightgray;
+  padding: 0 5px;
+}
+
+.footer3 a {
+  color: #aaa;
+  text-decoration: none;
+  border-right: 1px solid lightgray;
+  padding: 0 5px;
+}
+
+.nav2 a:hover {
+  text-decoration: none;
+  color: #f72210;
 }
 
 .nav3 a:hover {
@@ -69,7 +76,6 @@ nav {
 }
 
 .sticky {
-  position: sticky;
   top: 0;
   margin-top: -140px;
 }
@@ -137,20 +143,6 @@ footer {
   color: #007bff;
 }
 
-.footer2 a {
-  color: #aaa;
-  text-decoration: none;
-  border-right: 1px solid lightgray;
-  padding: 0 5px;
-}
-
-.footer3 a {
-  color: #aaa;
-  text-decoration: none;
-  border-right: 1px solid lightgray;
-  padding: 0 5px;
-}
-
 .footer2 a:hover,
 .footer3 a:hover {
   color: #000;
@@ -162,8 +154,13 @@ footer {
   }
 
   .account {
+    display: inline;
+  }
+
+  .login {
     display: none;
   }
+
 }
 
 @media only screen and (max-width: 320px) {
@@ -173,11 +170,6 @@ footer {
 
   .login {
     display: none;
-  }
-
-  .account {
-    display: block;
-    margin: auto;
   }
 
   .bars {
