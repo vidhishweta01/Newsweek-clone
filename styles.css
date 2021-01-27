@@ -8,10 +8,6 @@ nav {
   z-index: 90;
 }
 
-.title {
-  font-size: 90px;
-}
-
 .nav2,
 .nav3 {
   width: 97%;
@@ -88,6 +84,10 @@ footer {
 
 .s3-w {
   height: 70px;
+}
+
+.mains {
+  width:97%;
 }
 
 @media only screen and (max-width: 768px) {
