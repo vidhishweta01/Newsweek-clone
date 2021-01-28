@@ -8,7 +8,7 @@ nav {
 }
 
 .nav2 a {
-  font-size:18px;
+  font-size: 18px;
 }
 
 .nav3 a {
@@ -74,8 +74,8 @@ footer {
 }
 
 .mstories-img {
-  width:100%;
-  height:120px;
+  width: 100%;
+  height: 120px;
 }
 
 .s3-w {
@@ -83,7 +83,7 @@ footer {
 }
 
 .spacer {
-  height:105px;
+  height: 105px;
 }
 
 #mobile-v {
@@ -109,11 +109,11 @@ footer {
   }
 
   .mstories-img {
-    height:105px;
+    height: 105px;
   }
 
   .spacer {
-    height:145px;
+    height: 145px;
   }
 }
 
@@ -123,7 +123,7 @@ footer {
   }
 
   #mains {
-    display:none;
+    display: none;
   }
 
   .login {
@@ -139,12 +139,11 @@ footer {
     font-size: 15px;
   }
 
-  
   #mobile-v {
-    display:block;
-}
-
-  .sticky-a {
-    font-size:23px;
+    display: block;
+ }
+ 
+ .sticky-a {
+    font-size: 23px;
   }
 }
