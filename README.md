@@ -14,7 +14,7 @@ Bootstrap
 
 ## Live Demo
 
-[Try a lıve demo]()
+[Try a lıve demo](https://vidhishweta01.github.io/Newsweek-clone/)
 
 ## Authors 👤
 
