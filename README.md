@@ -24,11 +24,14 @@ _[Github](https://github.com/vidhishweta01)
 
 _[LinkedIn](http://linkedin.com/in/shweta-s-15a57070)
 
+
 ### Fares Ashraf
 
 _[Github]( https://github.com/ashraffares/http-ashraffares.github.io-)
 
 _[LinkedIn](https://www.linkedin.com/in/fares-ashraf-382a35176/)
+
+_[Twitter](https://twitter.com/Fares09301164)
 
 ## Show your support ⭐️⭐️
 
