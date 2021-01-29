@@ -24,7 +24,6 @@ _[Github](https://github.com/vidhishweta01)
 
 _[LinkedIn](http://linkedin.com/in/shweta-s-15a57070)
 
-
 ### Fares Ashraf
 
 _[Github]( https://github.com/ashraffares/http-ashraffares.github.io-)
