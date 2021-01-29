@@ -47,6 +47,10 @@ nav {
   color: #000;
 }
 
+.ms-h:hover {
+  color: #000;
+}
+
 .subscribe {
   background-color: #ffe400;
 }
