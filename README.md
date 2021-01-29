@@ -2,7 +2,7 @@
 
 A TheNewsweek clone, used for training purposes
 
-![Screenshot-of-live-demo](./asset/newsweek.png)
+![Screenshot-of-live-demo](./assets/newsweek.png)
 
 This is a project for the Microverse training program, Week 3, and it aims to simulate the HTML,CSS and Bootstrap parts of the [Newsweek](https://newsweek.com/).
 
@@ -24,8 +24,6 @@ _[Github](https://github.com/vidhishweta01)
 
 _[LinkedIn](http://linkedin.com/in/shweta-s-15a57070)
 
-_[Twitter](https://twitter.com/vidhishweta01)
-
 ### Fares Ashraf
 
 _[Github]( https://github.com/ashraffares/http-ashraffares.github.io-)
@@ -39,5 +37,4 @@ _[Twitter](https://twitter.com/Fares09301164)
 Give a star if you like this project!
 
 ## License 📝
-
 This project is [MIT](https://www.mit.edu/~amini/LICENSE.md) licensed.
