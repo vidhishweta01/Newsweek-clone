@@ -94,6 +94,10 @@ footer {
   display: none;
 }
 
+.mb-last-s {
+  display: none;
+}
+
 @media (max-width: 1024px) {
   .spacer {
     height: 100px;
@@ -140,6 +144,10 @@ footer {
     display: none;
   }
 
+  .last-section {
+    display: none;
+  }
+
   .login {
     display: none;
   }
@@ -154,6 +162,10 @@ footer {
   }
 
   #mobile-v {
+    display: block;
+  }
+
+  .mb-last-s {
     display: block;
   }
 
