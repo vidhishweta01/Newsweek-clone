@@ -14,7 +14,7 @@ Bootstrap
 
 ## Live Demo
 
-[Try a lıve demo]()
+[Try a lıve demo](https://vidhishweta01.github.io/Newsweek-clone/)
 
 ## Authors 👤
 
@@ -24,11 +24,15 @@ _[Github](https://github.com/vidhishweta01)
 
 _[LinkedIn](http://linkedin.com/in/shweta-s-15a57070)
 
+_[Twitter](https://twitter.com/vidhishweta01)
+
 ### Fares Ashraf
 
 _[Github]( https://github.com/ashraffares/http-ashraffares.github.io-)
 
 _[LinkedIn](https://www.linkedin.com/in/fares-ashraf-382a35176/)
+
+_[Twitter](https://twitter.com/Fares09301164)
 
 ## Show your support ⭐️⭐️
 
