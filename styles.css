@@ -98,6 +98,7 @@ footer {
   display: none;
 }
 
+
 @media (max-width: 1024px) {
   .spacer {
     height: 100px;
